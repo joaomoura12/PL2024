@@ -6,11 +6,11 @@ Processamento de Linguagens
 
 ## Aluno
 
-**Nome:** Diogo Pinto Araújo 
+**Nome:** João Miguel Mendes Moura 
 
-**Número:** a100544
+**Número:** a100615
 
-**Email:** a100544@alunos.uminho.pt
+**Email:** a100615@alunos.uminho.pt
 
 **Fotografia:**
 
